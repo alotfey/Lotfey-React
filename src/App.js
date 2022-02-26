@@ -1,5 +1,5 @@
-import PageManger from "./components/PageManger";
-import Footer from "./components/Footer";
+import PageManger from './components/PageManger';
+import Footer from './components/Footer';
 function App() {
   return (
     <div>

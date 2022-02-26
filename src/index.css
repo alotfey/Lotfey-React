@@ -3,7 +3,9 @@
     margin: 0;
     box-sizing: border-box;
   }
-  
+  #about, #portfolio, #resume, #contact {
+    min-height: 80vh;
+  }
   header a {
     text-decoration: none;
   }
