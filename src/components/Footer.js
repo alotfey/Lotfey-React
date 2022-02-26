@@ -1,12 +1,13 @@
 import React from 'react';
+import { FaGithub , FaLinkedin ,FaStackOverflow} from 'react-icons/fa';
 
 function Footer() {
   return (
     <footer className="container footer mt-auto py-3 bg-light">
       <span className="text-muted"><ul>
-        <li>Github</li>
-        <li>Linkedin</li>
-        <li>Stack Overflow</li>
+        <li> <FaGithub /></li>
+        <li><FaLinkedin /></li>
+        <li><FaStackOverflow /></li>
       </ul></span>
     </footer>
   );
