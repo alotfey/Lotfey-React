@@ -27,8 +27,7 @@
   header {
     padding: 0 20px;
     background-color: #1d1f1d;
-    height: 50px;
-    display: flex;
+    height: 100%;
     justify-content: space-between;
   }
   
@@ -78,4 +77,10 @@
   .frontend , .backend {
     list-style: circle;
     display: block;
+  }
+
+  @media only screen and (max-width: 600px) {
+    header{
+     font-size: 12px;
+    }
   }

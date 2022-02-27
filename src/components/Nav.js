@@ -2,12 +2,12 @@ import React from 'react';
 
 function Nav({ currentPage, handlePageChange }) {
   return (
-    <header className='container'>
-      <div>
-          <h1 className='logo'><a href="#about">Lotfey</a></h1>
+    <header className='navbar container'>
+      <div  className='col-2'>
+          <h1><a href="#about">Lotfey</a></h1>
         
       </div>
-      <nav>
+      <nav className='col-10'>
         <ul>
           <li>
             <a href="#about" onClick={() => handlePageChange('About')}>
