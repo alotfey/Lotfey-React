@@ -21,7 +21,7 @@ function PageManger() {
       return (document.title = 'Resume');
     }
   };
-
+changeTitle()
   const renderPage = () => {
     if (currentPage === 'About') {
       return <About />;
@@ -43,7 +43,7 @@ function PageManger() {
     <div>
       <Nav currentPage={currentPage} handlePageChange={handlePageChange} />
       {renderPage()}
-      {changeTitle()}
+     
     </div>
   );
 }

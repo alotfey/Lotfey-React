@@ -3,6 +3,17 @@
     margin: 0;
     box-sizing: border-box;
   }
+  body {
+    margin: 0;
+    padding: 0;
+    font-weight: 600;
+    line-height: 1.5;
+    font-size: 18px;
+    letter-spacing: 0.1em;
+    background: #113d61;
+    color: #ffff;
+    font-family: 'Poiret One', cursive;
+  }
   #about, #portfolio, #resume, #contact {
     min-height: 80vh;
   }
