@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Lotfey-React/static/css/main.04812a69.css",
-    "main.js": "/Lotfey-React/static/js/main.459e0db9.js",
+    "main.js": "/Lotfey-React/static/js/main.827ee2e7.js",
     "static/js/787.602f576c.chunk.js": "/Lotfey-React/static/js/787.602f576c.chunk.js",
     "static/media/profile.png": "/Lotfey-React/static/media/profile.18093fa58299a88ae4d7.png",
     "index.html": "/Lotfey-React/index.html",
     "main.04812a69.css.map": "/Lotfey-React/static/css/main.04812a69.css.map",
-    "main.459e0db9.js.map": "/Lotfey-React/static/js/main.459e0db9.js.map",
+    "main.827ee2e7.js.map": "/Lotfey-React/static/js/main.827ee2e7.js.map",
     "787.602f576c.chunk.js.map": "/Lotfey-React/static/js/787.602f576c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04812a69.css",
-    "static/js/main.459e0db9.js"
+    "static/js/main.827ee2e7.js"
   ]
 }
