@@ -4,7 +4,7 @@ function Nav({ currentPage, handlePageChange }) {
   return (
     <header className='container'>
       <div>
-          <h1><a href="/">Lotfey</a></h1>
+          <h1 className='logo'><a href="/">Lotfey</a></h1>
         
       </div>
       <nav>

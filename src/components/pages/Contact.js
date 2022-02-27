@@ -47,6 +47,7 @@ function Contact() {
 
   return (
     <div id="contact" className="container">
+      <div className="mb-4"></div>
       <form>
         <div className="mb-3">
           <label htmlFor="inputName">Name:</label>

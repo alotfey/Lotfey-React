@@ -3,6 +3,9 @@
     margin: 0;
     box-sizing: border-box;
   }
+  html {
+    background: #fff;
+  }
   body {
     margin: 0;
     padding: 0;
@@ -10,7 +13,7 @@
     line-height: 1.5;
     font-size: 18px;
     letter-spacing: 0.1em;
-    background: #113d61;
+    background: #1e3f5a;
     color: #ffff;
     font-family: 'Poiret One', cursive;
   }
@@ -36,7 +39,10 @@
     align-items: center;
     justify-content: space-around;
   }
-  
+  .logo {
+    font-family: 'Courier New', Courier, monospace;
+    text-transform:uppercase;
+  }
   ul a {
     color: white;
   }
@@ -64,4 +70,12 @@
 
   form {
       width: 50%;
+  }
+
+
+  /* Resume CSS */
+
+  .frontend , .backend {
+    list-style: circle;
+    display: block;
   }
