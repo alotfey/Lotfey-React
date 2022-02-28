@@ -19,6 +19,6 @@ function Footer() {
       </span>
     </footer>
   );
-}
+} 
 
 export default Footer;
