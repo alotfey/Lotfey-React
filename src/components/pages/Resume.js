@@ -5,7 +5,7 @@ function Resume() {
     <div id='resume' className='container'>
       <div className="mb-4"></div>
       <h2>Resume</h2>
-      <p>download my  <a href="#">Resume</a></p>
+      <p>download my  <a href="/resume.pdf">Resume</a></p>
       <h3>Front-end proficient</h3>
       <ul className='frontend'>
         <li>HTML</li>
