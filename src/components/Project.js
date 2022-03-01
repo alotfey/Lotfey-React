@@ -1,33 +1,34 @@
 import React from 'react';
+// import photo from '../assets/caniff'
 function Project(props) {
   const images = [
     {
       id: 1,
-      src: './assets/caniff.jpg',
+      src: '../assets/caniff.jpg',
       title: 'caniff',
       github: 'https://github.com/caniff',
     },
     {
       id: 2,
-      src: './assets/horiseon.jpg',
+      src: '../assets/horiseon.jpg',
       title: 'horiseon',
       github: 'https://github.com/horiseon',
     },
     {
       id: 3,
-      src: './assets/jar-o-kids.jpg',
+      src: '../assets/jar-o-kids.jpg',
       title: 'jar-o-kids',
       github: 'https://github.com/jar-o-kids',
     },
     {
       id: 4,
-      src: './assets/oiacademy.jpg',
+      src: '../assets/oiacademy.jpg',
       title: 'oiacademy',
       github: 'https://github.com/oiacademy',
     },
     {
       id: 5,
-      src: './assets/runbuddy.jpg',
+      src: '../assets/runbuddy.jpg',
       title: 'runbuddy',
       github: 'https://github.com/runbuddy',
     },
