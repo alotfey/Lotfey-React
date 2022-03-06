@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/Lotfey-React/static/css/main.bbda3b3a.css",
-    "main.js": "/Lotfey-React/static/js/main.c9e20908.js",
+    "main.css": "/Lotfey-React/static/css/main.a33db228.css",
+    "main.js": "/Lotfey-React/static/js/main.7ee4a7c6.js",
     "static/js/787.602f576c.chunk.js": "/Lotfey-React/static/js/787.602f576c.chunk.js",
     "static/media/profile.png": "/Lotfey-React/static/media/profile.18093fa58299a88ae4d7.png",
+    "static/media/profile-react.jpg": "/Lotfey-React/static/media/profile-react.21285b2974b4cb948970.jpg",
+    "static/media/stockTicker.jpg": "/Lotfey-React/static/media/stockTicker.95458847899141acfc8b.jpg",
+    "static/media/jar-o-kids.jpg": "/Lotfey-React/static/media/jar-o-kids.70a6e561b2c881a91bea.jpg",
+    "static/media/horiseon.jpg": "/Lotfey-React/static/media/horiseon.b97d62c90c86c084b8f1.jpg",
+    "static/media/budgetguard.jpg": "/Lotfey-React/static/media/budgetguard.4fb169c746ceacde782a.jpg",
     "index.html": "/Lotfey-React/index.html",
-    "main.bbda3b3a.css.map": "/Lotfey-React/static/css/main.bbda3b3a.css.map",
-    "main.c9e20908.js.map": "/Lotfey-React/static/js/main.c9e20908.js.map",
+    "main.a33db228.css.map": "/Lotfey-React/static/css/main.a33db228.css.map",
+    "main.7ee4a7c6.js.map": "/Lotfey-React/static/js/main.7ee4a7c6.js.map",
     "787.602f576c.chunk.js.map": "/Lotfey-React/static/js/787.602f576c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bbda3b3a.css",
-    "static/js/main.c9e20908.js"
+    "static/css/main.a33db228.css",
+    "static/js/main.7ee4a7c6.js"
   ]
 }
