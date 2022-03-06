@@ -35,7 +35,6 @@ changeTitle()
     if (currentPage === 'Resume') {
       return <Resume />;
     }
-    return <About />;
   };
   const handlePageChange = (page) => setCurrentPage(page);
 
