@@ -4,7 +4,7 @@ import horiseon from '../assets/image/horiseon.jpg';
 import jarOKids from '../assets/image/jar-o-kids.jpg';
 import profileReact from '../assets/image/profile-react.jpg'
 import runbuddy from '../assets/image/runbuddy.jpg'
-import budgetguard from '../assets/image/budgetguard.jpg'
+import couponGold from '../assets/image/coupon-gold.PNG'
 import { FaGithub } from 'react-icons/fa';
 
 function Project() {
@@ -68,11 +68,11 @@ function Project() {
 </div>
 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
     <div class="hovereffect">
-        <img className="img-responsive" width="400px" height="160" src={budgetguard} alt="budgetguard"/>
+        <img className="img-responsive" width="400px" height="160" src={couponGold} alt="couponGold"/>
             <div class="overlay">
-                <h2>budgetguard</h2>
+                <h2>coupon Gold</h2>
 				<p>
-        <a href="https://github.com/alotfey/budget-guard"><FaGithub /></a>
+        <a href="https://github.com/ening6649/project3"><FaGithub /></a>
 				</p>
             </div>
     </div>
